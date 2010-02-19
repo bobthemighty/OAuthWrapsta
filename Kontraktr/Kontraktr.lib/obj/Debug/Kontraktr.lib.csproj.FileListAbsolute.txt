@@ -1,0 +1,10 @@
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontraktr.lib\bin\Debug\Kontraktr.lib.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontraktr.lib\bin\Debug\Kontraktr.lib.pdb
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontraktr.lib\bin\Debug\OpenRasta.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontraktr.lib\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontraktr.lib\obj\Debug\Kontraktr.lib.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontraktr.lib\obj\Debug\Kontraktr.lib.pdb
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontraktr.lib\bin\Debug\OpenRasta.Codecs.WebForms.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontraktr.lib\bin\Debug\OpenRasta.Hosting.AspNet.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontraktr.lib\bin\Debug\OpenWrapsta.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontraktr.lib\bin\Debug\OpenWrapsta.pdb

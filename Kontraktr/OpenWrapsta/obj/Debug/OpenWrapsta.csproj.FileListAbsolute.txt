@@ -1,0 +1,5 @@
+D:\dev\play\OAuthWrapsta\Kontraktr\OpenWrapsta\bin\Debug\OpenWrapsta.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\OpenWrapsta\bin\Debug\OpenWrapsta.pdb
+D:\dev\play\OAuthWrapsta\Kontraktr\OpenWrapsta\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\play\OAuthWrapsta\Kontraktr\OpenWrapsta\obj\Debug\OpenWrapsta.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\OpenWrapsta\obj\Debug\OpenWrapsta.pdb

@@ -1,0 +1,11 @@
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr\bin\Kontaktr.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr\bin\Kontaktr.pdb
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr\bin\Kontraktr.lib.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr\bin\OpenWrapsta.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr\bin\OpenRasta.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr\bin\OpenWrapsta.pdb
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr\bin\Kontraktr.lib.pdb
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr\obj\Debug\Kontaktr.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr\obj\Debug\Kontaktr.pdb
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr\bin\OpenRasta.Codecs.WebForms.dll

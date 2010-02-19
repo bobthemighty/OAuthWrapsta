@@ -1,0 +1,16 @@
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\bin\Debug\Kontaktr.Lib.Tests.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\bin\Debug\Kontaktr.Lib.Tests.pdb
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\bin\Debug\Kontraktr.lib.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\bin\Debug\Machine.Core.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\bin\Debug\Machine.Specifications.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\bin\Debug\Moq.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\bin\Debug\nunit.framework.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\bin\Debug\OpenRasta.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\bin\Debug\OpenWrapsta.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\bin\Debug\OpenRasta.Codecs.WebForms.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\bin\Debug\OpenWrapsta.pdb
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\bin\Debug\Kontraktr.lib.pdb
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\obj\Debug\Kontaktr.Lib.Tests.dll
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\obj\Debug\Kontaktr.Lib.Tests.pdb
+D:\dev\play\OAuthWrapsta\Kontraktr\Kontaktr.Lib.Tests\bin\Debug\Machine.Specifications.pdb
